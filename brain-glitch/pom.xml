@@ -1,0 +1,10 @@
+<secret-project>
+  <modelVersion>26643</modelVersion>
+
+  <parent>
+    <groupId>com.enguyen.valentine</groupId>
+    <artifactId>gift</artifactId>
+    <year>1</year>
+  </parent>
+
+</secret-project>
