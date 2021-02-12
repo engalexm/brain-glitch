@@ -1,0 +1,5 @@
+alright i know this is a folder maven makes
+but let me not pretend to know what the fuck maven is or what it does
+pretend this folder is filled with maven-related stuff
+for the purposes of this metaphor
+:3
